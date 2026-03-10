@@ -46,13 +46,13 @@ Repository:
 # Technologies
 
 Azure
-Active Directory
-Microsoft Entra ID
-Azure AD Connect
-Windows Server
-Hybrid Identity Architecture
-Authentication & Identity Lifecycle Management
-Intune
+Active Directory,
+Microsoft Entra ID,
+Azure AD Connect, 
+Windows Server, 
+Hybrid Identity Architecture, 
+Authentication & Identity Lifecycle Management , 
+Intune.
 
 # Let's Connect
 
