@@ -3,7 +3,7 @@
 ## It's Dhruv Gadhavi
 
 Core Skills: 
-IT Operations | Identity Infrastructure | Active Directory | Microsoft Entra ID | Hybrid Identity
+IT Operations | Microsoft Azure | Identity Infrastructure | Active Directory | Microsoft Entra ID | Hybrid Identity
 
 I focus on building and troubleshooting identity infrastructure across on-premises and cloud environments. My current work centers on Active Directory, Microsoft Entra ID, and hybrid identity architecture, with hands-on implementation labs that simulate real enterprise environments.
 
