@@ -56,5 +56,6 @@ Intune
 
 Connect
 
-LinkedIn
-[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/dhruv-gadhavi/)
+LinkedIn: 
+
+https://www.linkedin.com/in/dhruv-gadhavi/
