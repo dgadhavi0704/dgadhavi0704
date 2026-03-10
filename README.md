@@ -43,7 +43,7 @@ Repository:
 [https://github.com/YOUR_USERNAME/Hybrid-Identity-AD-EntraID](https://github.com/dgadhavi0704/Hybrid-Identity-AD-EntraID)
 
 
-Technologies
+# Technologies
 
 Azure
 Active Directory
@@ -54,8 +54,7 @@ Hybrid Identity Architecture
 Authentication & Identity Lifecycle Management
 Intune
 
-Connect
+# Let's Connect
 
 LinkedIn: 
-
 https://www.linkedin.com/in/dhruv-gadhavi/
