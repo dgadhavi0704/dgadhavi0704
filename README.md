@@ -1,6 +1,6 @@
 Hi, I'm Dhruv 👋
 
-IT Service Desk specialist in Winnipeg, building toward systems and network administration. I learn by building real environments in a lab, breaking them, and documenting why each fix works.
+IT Service Desk specialist in Winnipeg, building toward becoming a technology solution builder, I know it does now sound any Job title, but that is the catch here. I learn by building real environments in a lab, breaking them, and documenting why each fix works.
 
 What I work with: Active Directory · Microsoft Entra ID · hybrid identity · Windows Server · DNS/DHCP · OPNsense firewalls · WireGuard · PowerShell · ServiceNow
 
